@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador de criptografia com Cifra de César
+    </title>
+    <link rel="stylesheet" href="Estilo.CSS">
+</head>
+<body>
+    <h1>Simulador de Criptografia</h1>
+
+    <p>Este site permite que você cripte e decripte mensagens usando a Cifra de César, um dos métodos de criptografia mais antigos. Com um deslocamento fixo de 4, o texto digitado é transformado em uma versão codificada, garantindo mais sigilo na comunicação. Além disso, você pode reverter o processo e recuperar a mensagem original. Simples, rápido e eficaz para aprender sobre criptografia!</p>
+    <div class="container">
+        
+        <label for="inputTexto">Digite uma frase para ser criptografada:</label>
+        <textarea id="inputTexto" placeholder="Digite aqui..."></textarea>
+
+        <div class="botoes">
+            <button onclick="criptografarTexto()">Criptografar</button>
+            <button onclick="descriptografarTexto()">Descriptografar</button>
+        </div>
+
+        <h2>Resultado:</h2>
+        <p id="textoCriptografado"></p>
+        <p id="textoDescriptografado"></p>
+    </div>
+
+    <script src="Script.JS"></script>
+</body>
+</html>
