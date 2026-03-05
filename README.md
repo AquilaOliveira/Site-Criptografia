@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação web interativa que demonstra, de forma simples e didática, o funcionamento básico de um processo de **criptografia e descriptografia de mensagens**.
 
-O objetivo do projeto é ajudar no entendimento de conceitos fundamentais de **segurança da informação**, mostrando como uma mensagem pode ser transformada (criptografada) para proteger seu conteúdo e posteriormente restaurada (descriptografada). A criptografia é uma técnica utilizada para proteger dados e garantir que apenas pessoas autorizadas consigam acessar determinada informação. :contentReference[oaicite:0]{index=0}
+O objetivo do projeto é ajudar no entendimento de conceitos fundamentais de **segurança da informação**, mostrando como uma mensagem pode ser transformada (criptografada) para proteger seu conteúdo e posteriormente restaurada (descriptografada). A criptografia é uma técnica utilizada para proteger dados e garantir que apenas pessoas autorizadas consigam acessar determinada informação. 
 
 ## 🌐 Acesse o projeto
 
